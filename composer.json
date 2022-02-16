@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jatrinahidhasanlimon\\demopackage\\": "packages/jatrinahidhasanlimon/demopackage/src/"
+            "jatrinahidhasanlimon\\demopackage\\": "jatrinahidhasanlimon/demopackage/src/"
         }
     },
     "extra": {
