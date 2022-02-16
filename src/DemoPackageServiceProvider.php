@@ -13,7 +13,7 @@ class DemoPackageServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->register(Custom\demopackage\DemoPackageServiceProvider::class);
+        
     }
 
     /**
