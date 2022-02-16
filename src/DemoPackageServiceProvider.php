@@ -1,6 +1,6 @@
 <?php
 
-namespace nahidhasanlimon\demopackage;
+namespace jatrinahidhasanlimon\demopackage;
 
 use Illuminate\Support\ServiceProvider;
 

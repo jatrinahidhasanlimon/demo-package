@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "nahidhasanlimon\\demopackage\\DemoPackageServiceProvider"
+                "jatrinahidhasanlimon\\demopackage\\DemoPackageServiceProvider"
             ],
             "aliases": {
                 
