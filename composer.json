@@ -17,8 +17,8 @@
         "php": ">=7.4.0"
     },
     "autoload": {
-        "psr-0": {
-            "package": "src"
+        "psr-4": {
+            "jatrinahidhasanlimon\\demopackage\\": "packages/jatrinahidhasanlimon/demopackage/src/"
         }
     },
     "extra": {
