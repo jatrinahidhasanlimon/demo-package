@@ -18,13 +18,13 @@
     },
     "autoload": {
         "psr-0": {
-            "DemoPackage": "src"
+            "package": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "nahidhasanlimon\\demo\\DemoPackageServiceProvider"
+                "nahidhasanlimon\\demopackage\\DemoPackageServiceProvider"
             ],
             "aliases": {
                 
