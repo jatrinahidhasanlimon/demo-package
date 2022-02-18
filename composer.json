@@ -22,7 +22,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "jatrinahidhasanlimon\\demopackage\\DemoPackageServiceProvider"
+                "Jatrinahidhasanlimon\\Demopackage\\DemoPackageServiceProvider"
             ]
         }
     }

@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'a5b4e39c5f049ff5108b2f9caaa52ff913a9441f',
+    'reference' => 'e6b6a5b970809b9d6ad4582281fea2a45d73346d',
     'name' => 'jatrinahidhasanlimon/demopackage',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'a5b4e39c5f049ff5108b2f9caaa52ff913a9441f',
+      'reference' => 'e6b6a5b970809b9d6ad4582281fea2a45d73346d',
     ),
   ),
 );
