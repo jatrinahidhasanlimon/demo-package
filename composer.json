@@ -17,7 +17,9 @@
         "php": ">=7.4.0"
     },
     "autoload": {
-       
+        "psr-4": {
+            "Jatrinahidhasanlimon\\Demopackage\\": "src"
+        }
     },
     "extra": {
         "laravel": {
